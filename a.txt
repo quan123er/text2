@@ -1,0 +1,439 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- saved from url=(0049)http://www.ucml.com.cn/Article.aspx?ArticleID=417 -->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=GBK">
+<title>金富瑞网站</title>
+   <link rel="stylesheet" type="text/css" href="css/style.css">
+  <link rel="stylesheet" type="text/css" href="css/public.css">
+<script type="text/javascript" src="js/jquery-1.4.2.min.js"></script>
+    <script language="javascript" type="text/javascript">
+<!--
+
+
+        function getObject(objectId) {
+            if (document.getElementById && document.getElementById(objectId)) {
+                return document.getElementById(objectId);
+            }
+            else if (document.all && document.all(objectId)) {
+                return document.all(objectId);
+            }
+            else if (document.layers && document.layers[objectId]) {
+                return document.layers[objectId];
+            }
+            else {
+                return false;
+            }
+        }
+
+      
+-->
+
+    </script>
+
+
+</head>
+<body>
+  <form name="aspnetForm" method="post" action="Default.aspx" id="aspnetForm">
+	 <div id="box" >
+	<!--======头部开始=======-->
+	<div class="head_top">
+            <div>
+                <a title="金富瑞（北京）科技有限公司 logo" class="ucml_logo" href="Default.aspx"></a>
+            </div>
+            <div class="head_right">
+                <div class="product_txt">
+                    <a title="" href="http://blm.ucml.com.cn/" target=""></a>
+                </div>
+                <div class="search">
+                    <div class="search_input">
+                        <input name="ctl00$txtSearch" type="text" maxlength="15" id="ctl00_txtSearch" class="search_input_left" value="搜索……" onClick="value=&#39;&#39;;focus()"></div>
+                    <div class="search_button">
+                        <input name="搜索" type="button" title="搜索" class="search_button_right" value="" onClick="searchshow()"></div>
+                </div>
+            </div>
+	</div> 
+	
+		<!--========菜单开始=====-->
+<div class="topNav">
+            <div class="topNav_left">
+            </div>
+            <div class="topNav_right">
+                <div id="nav_left">
+                    <ul id="nav">
+                        <li class="top_li"><a title="金富瑞（北京）科技有限公司" href="http://www.ucml.com.cn/Default.aspx" class="top_link top_image">
+                            <img src="image/home_icon_button.gif" width="20" height="21" alt="金富瑞（北京）科技有限公司" class="nav_image"></a></li>
+                        <li class="nav_space"></li>
+						<li class="top_li">
+							<div class="nav_box"><a id="nav46" class="top_link"><span class="down">业务平台</span></a>
+					  		    <div class="nav_lev2" style="display: none; ">
+								  	<div class="nav_lev2_top"></div>
+									<div class="nav_lev2_center">
+										<ul class="sub">
+											<li><a href="#" title="开发平台简介">开发平台简介</a></li>
+											<li><a href="#" title="业务单元">业务单元</a></li>
+											<li><a href="http://www.ucml.com.cn/Article.aspx?ArticleID=403" title="流程管理">流程管理</a></li>
+											<li><a href="http://www.ucml.com.cn/Article.aspx?ArticleID=405" title="业务度量">业务度量</a></li>
+											<li><a href="http://www.ucml.com.cn/Article.aspx?ArticleID=406" title="统计报表">统计报表</a></li>
+											<li><a href="http://www.ucml.com.cn/Category.aspx?CategoryID=82" title="套路编程">套路编程</a></li>
+											<li><a href="http://www.ucml.com.cn/Article.aspx?ArticleID=559" title="移动开发平台">移动开发平台</a></li>
+											<li><a href="http://www.ucml.com.cn/Article.aspx?ArticleID=549" title="平台上应用">平台上应用</a></li>
+										</ul>
+									  </div>
+									  <div class="nav_lev2_bottom"></div>
+								</div>
+							</div>
+						</li>
+						<li class="nav_space"></li>
+						<li class="top_li">
+							<div class="nav_box"><a id="nav54" class="top_link"><span class="down">战略平台</span></a>
+						   		 <div class="nav_lev2" style="display: none; ">
+								    <div class="nav_lev2_top"></div>
+								 	<div class="nav_lev2_center">
+			
+
+
+
+
+
+
+
+							<ul class="sub">
+											<li><a href="http://www.ucml.com.cn/Article.aspx?ArticleID=449" title="战略管理平台">战略管理平台</a></li>
+											<li><a href="http://www.ucml.com.cn/Article.aspx?ArticleID=450" title="战略绩效">战略绩效</a></li>
+											<li><a href="http://www.ucml.com.cn/Article.aspx?ArticleID=459" title="计划任务">计划任务</a></li>
+											<li><a href="http://www.ucml.com.cn/Article.aspx?ArticleID=520" title="绩效管理">绩效管理</a></li>
+											<li><a href="http://www.ucml.com.cn/Article.aspx?ArticleID=454" title="流程管理">流程管理</a></li>
+											<li><a href="http://www.ucml.com.cn/Article.aspx?ArticleID=331" title="协同办公">协同办公</a></li>
+											<li><a href="http://www.ucml.com.cn/Article.aspx?ArticleID=525" title="战略绩效咨询">战略绩效咨询</a></li>
+											<li><a href="http://www.ucml.com.cn/Category.aspx?CategoryID=93" title="管理知识库">管理知识库</a></li>
+											<li><a href="http://www.ucml.com.cn/Article.aspx?ArticleID=351" title="渠道与联盟">渠道与联盟</a></li>
+										 </ul>
+									</div>
+									<div class="nav_lev2_bottom"></div>
+								</div>
+							 </div>
+					    </li>
+						<li class="nav_space"></li>
+						<li class="top_li">
+						<div class="nav_box"><a id="nav37" class="top_link"><span class="down">典型客户</span></a> 
+							<div class="nav_lev2" style="display: none; ">
+								<div class="nav_lev2_top"></div>
+								<div class="nav_lev2_center">
+									<ul class="sub"><li><a href="http://www.ucml.com.cn/Article.aspx?ArticleID=416" title="典型客户列表">典型客户列表</a></li>
+										<li><a href"http://www.ucml.com.cn/Article.aspx?ArticleID=425" title="分行业列表">分行业列表</a></li>
+										<li><a href="http://www.ucml.com.cn/Article.aspx?ArticleID=423" title="分地区列表">分地区列表</a></li>
+										<li><a href="http://www.ucml.com.cn/Article.aspx?ArticleID=528" title="典型案例">典型案例</a></li>
+									</ul>
+								</div>
+							<div class="nav_lev2_bottom"></div>
+							</div>
+						 </div>
+					  </li>
+					  <li class="nav_space"></li>
+					  <li class="top_li">
+					  	<div class="nav_box"><a id="nav16" class="top_link"><span class="down">新闻中心</span></a> 
+							<div class="nav_lev2" style="display: none; ">
+								<div class="nav_lev2_top"></div>
+									<div class="nav_lev2_center">
+									   <ul class="sub">
+									   		<li><a href="http://www.ucml.com.cn/Category.aspx?CategoryID=25" title="内部新闻">内部新闻</a></li>
+											<li><a href="http://www.ucml.com.cn/Category.aspx?CategoryID=73" title="市场活动">市场活动</a></li>
+											<li><a href="http://www.ucml.com.cn/Category.aspx?CategoryID=81" title="媒体报道">媒体报道</a></li>
+									   </ul>
+									 </div>
+								    <div class="nav_lev2_bottom"></div>
+								</div>
+							</div>
+						</li>
+						<li class="nav_space"></li>
+						<li class="top_li">
+							<div class="nav_box"><a id="nav18" class="top_link"><span class="down">服务培训</span></a>
+								<div class="nav_lev2" style="display: none; ">
+									<div class="nav_lev2_top"></div>
+									<div class="nav_lev2_center">
+										<ul class="sub">
+											<li><a href="http://www.ucml.com.cn/Article.aspx?ArticleID=426" title="服务体系">服务体系</a></li>
+											<li><a href="http://www.ucml.com.cn/Article.aspx?ArticleID=427" title="培训体系">培训体系</a></li>
+											<li><a href="http://www.ucml.com.cn/Category.aspx?CategoryID=75" title="常见问题">常见问题</a></li>
+											<li><a href="http://www.ucml.com.cn/Article.aspx?ArticleID=429" title="下载服务">下载服务</a></li>
+											<li><a href="http://www.ucml.com.cn/Article.aspx?ArticleID=430" title="在线演示">在线演示</a></li>
+										</ul>
+									</div>
+									<div class="nav_lev2_bottom"></div>
+								</div>
+							</div>
+						</li>
+						<li class="nav_space"></li>
+						<li class="top_li">
+							<div class="nav_box"><a id="nav13" class="top_link"><span class="down">关于金富瑞</span></a>
+								 <div class="nav_lev2" style="display: none; ">
+								 	<div class="nav_lev2_top"></div>
+									<div class="nav_lev2_center">
+										<ul class="sub">
+											<li><a href="http://www.ucml.com.cn/Article.aspx?ArticleID=417" title="公司简介">公司简介</a></li>
+											<li><a href="http://www.ucml.com.cn/Article.aspx?ArticleID=418" title="发展历程">发展历程</a></li>
+											<li><a href="http://www.ucml.com.cn/Article.aspx?ArticleID=419" title="荣誉证书">荣誉证书</a></li>
+											<li><a href="http://www.ucml.com.cn/Article.aspx?ArticleID=420" title="企业文化">企业文化</a></li>
+											<li><a href="http://www.ucml.com.cn/Recruitment/Sociology.aspx" title="工作机会">工作机会</a></li>
+											<li><a href="http://www.ucml.com.cn/Article.aspx?ArticleID=422" title="联系方式">联系方式</a></li>
+										</ul>
+									</div>
+									<div class="nav_lev2_bottom"></div>
+
+
+
+
+
+								</div>
+							</div>
+						</li>
+
+                        <li class="nav_space"></li>
+                    </ul>
+asdfasdfasdfasdfasf
+                </div>
+
+ <div class="nav_phone" >         
+  <div class="phone_icon">  <img src="image/phone_icon.gif" width="29" height="24" alt="销售专线" /></div>
+                    <div class="phone_number">  销售专线：400-638-6006</div>
+
+                         </div>
+
+
+			 </div>
+        </div>
+
+
+
+
+	<!--========头部结束=====-->
+	<div class="main_middle">
+	  <!--banner区-->
+    <div class="banner">
+        
+                <a id="linkl1" href="Article.aspx?ArticleID=528">
+                    <img  height="276" src="image/index_roll_1.jpg" width="960" border="0" /></a>
+        
+    </div>
+    <!--banner区-->
+	<!--新闻区-->
+		<div class="news">
+        <div class="news_left">
+            <div class="news_border">
+            </div>
+            <div class="news_content">
+                <div class="news_title">
+                    <div class="news_titleLeft">
+                        <a href="javascript:void(0)" class="cloumn_title">新闻 </a>
+                    </div>
+                    <div class="news_titlemore">
+                        <a title="内部新闻" href="http://www.ucml.com.cn/Category.aspx?CategoryID=25">
+                            <img src="image/more.gif" width="70" height="23" alt="内部新闻"></a></div>
+                </div>
+                <div class="news_middle">
+                    <div class="news_middle_left">
+                        <img src="image/news_image.gif" width="148" height="101" alt="net开发平台"><br>
+                        <a title="市场活动" style="text-align: center" href="http://www.ucml.com.cn/Category.aspx?CategoryID=73">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;市场活动</a>
+                  </div>
+                    <div class="news_middle_right">
+                        <div id="ctl00_ContentMain_ArticleTop1_DivArticleTop">
+							<ul style="margin:0px; padding:0px">
+								<li><a href="http://www.ucml.com.cn/Article.aspx?ArticleID=548" title="UCML签约长春轨道客车股份有限公司开发工资系统">UCML签约长春轨道客车股份有限公司开发工资系统</a></li>
+								<li><a href="http://www.ucml.com.cn/Article.aspx?ArticleID=547" title="钢铁行业再结硕果，UCML开发平台走进韶关钢铁">钢铁行业再结硕果，UCML开发平台走进韶关钢铁</a></li>
+								<li><a href="http://www.ucml.com.cn/Article.aspx?ArticleID=545" title="UCML累结硕果先后签约多家软件开发商">UCML累结硕果先后签约多家软件开发商</a></li>
+								<li><a href="http://www.ucml.com.cn/Article.aspx?ArticleID=546" title="杭州电子科技大学选用UCML开发平台开发协同办公系统">杭州电子科技大学选用UCML开发平台开发协同办公系统</a></li>
+								<li><a href="http://www.ucml.com.cn/Article.aspx?ArticleID=544" title="UCML签约中国重型机械研究所有限公司">UCML签约中国重型机械研究所有限公司</a></li>
+								<li><a href="http://www.ucml.com.cn/Article.aspx?ArticleID=543" title="中国通信建设集团设计院选用UCML构建项目管理系统">中国通信建设集团设计院选用UCML构建项目管理系统</a></li>
+							</ul>
+						</div>
+
+                    </div>
+                    <!--<div class="news_middle_right">
+                        <ul style="margin:0px; padding:0px">
+                            <li><a href="javascript:void(0)">大连船舶配套产业园签约金富瑞，UCML首次应用于园区 </a></li>
+                            <li><a href="javascript:void(0)">信息化金富瑞签约安徽电建一公司，为其实施OA系统</a></li>
+                            <li><a href="javascript:void(0)">大连船舶配套产业园签约金富瑞，UCML首次应用于园区 </a></li>
+                            <li><a href="javascript:void(0)">信息化金富瑞签约安徽电建一公司，为其实施OA系统</a></li>
+                            <li><a href="javascript:void(0)">大连船舶配套产业园签约金富瑞，UCML首次应用于园区 </a></li>
+                            <li><a href="javascript:void(0)">信息化金富瑞签约安徽电建一公司，为其实施OA系统</a></li>
+                        </ul>
+                    </div>-->
+                </div>
+            </div>
+        </div>
+        <div class="news_right">
+            <div class="news_rightContent">
+                <div class="news_rightTitle">
+                    <a class="cloumn_title">快速通道 </a>
+                </div>
+                <div class="news_right_middle">
+                    <ul style="margin: 0px; padding: 0px">
+                        <li><a title="业务单元" href="http://www.ucml.com.cn/Article.aspx?ArticleID=396">
+                            <img src="image/fast_business.png" width="46" height="48" alt="业务单元"><br>
+                      业务单元</a></li>
+                        <li><a title="工作流管理平台" href="http://www.ucml.com.cn/Article.aspx?ArticleID=454">
+                            <img src="image/fast_process.png" width="46" height="48" alt="工作流管理平台"><br>
+                      流程管理</a></li>
+                        <li><a title="业务度量" href="http://www.ucml.com.cn/Article.aspx?ArticleID=405">
+                            <img src="image/fast_measure.png" width="46" height="48" alt="业务度量"><br>
+                      业务度量</a></li>
+                        <li><a title="战略绩效" href="http://www.ucml.com.cn/Article.aspx?ArticleID=450">
+                            <img src="image/fast_strategy.png" width="46" height="48" alt="战略绩效软件"><br>
+                      战略绩效</a></li>
+                        <li><a title="协同办公" href="http://www.ucml.com.cn/Article.aspx?ArticleID=331">
+                            <img src="image/fast_office.png" width="46" height="48" alt="协同办公"><br>
+                      协同办公</a></li>
+                        <li><a title="经典案例" href="http://www.ucml.com.cn/Article.aspx?ArticleID=528">
+                            <img src="image/fast_case.png" width="46" height="48" alt="经典案例"><br>
+                      经典案例</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="news_rightBorder">
+            </div>
+        </div>
+    </div>
+		  <!--新闻区-->
+		  
+	 
+		  
+		   <!--功能介绍栏-->
+    <div class="column">
+        <div class="column_left"></div>
+        <div class="column_content">
+            <ul style="margin: 0px; padding: 0px">
+                <li class="column_develop">
+                    <div class="column_title">
+                        二代开发平台 UCML</div>
+                    <div class="column_font">
+                        <a title="UCML.NET工作流及业务快速开发平台" href="Article.aspx?ArticleID=395">UCML，领先的B/S框架级快速开发平台，直接生成C#和JS源码，是国内最具开放的应用软件开发平台，十年积累，在.Net工作流及平台领域连续九年市场占有量第一。集业务单元（表单）、业务流程管理(BPM)、报表、多维分析与数据板、门户与整合为一体……</a></div>
+                </li>
+                <li class="column_system">
+                    <div class="column_title">
+                        UCML移动开发平台</div>
+                    <div class="column_font">
+                        <a title="移动开发平台" href="Article.aspx?ArticleID=559">UCML Web Mobile框架以HTML5为核心技术，采用<strong>手机原生&本地页面</strong>模式，平台以最小流量、最佳展现为宗旨，
+                            支持移动业务单元、移动流程管理和统计图表等，同时支持手机硬件设备，条码扫描、照相机、拨打电话、文件访问及上传下载、通讯录及GPS组件等……。 </a>
+                    </div>
+                </li>
+                <li class="column_lead">
+                    <div class="column_title">
+                        UCML-BSC战略绩效软件系统</div>
+                    <div class="column_font">
+                        <a title="平衡计分卡软件" href="Article.aspx?ArticleID=449">如何建立一套战略绩效管理体系，以确保组织 战略目标的实现。UCML战略绩效软件系统，国内领先的平衡计分卡软件，以平衡计分卡为核心，建立了从战略管理、计划管理、 绩效考核、业务流程的一体化解决方案，涵盖了从战略管理、绩效管理软件……。</a></div>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+ <!--底部广告栏-->
+    <div class="adv">
+        <div class="adv_left">
+            <a title="UCML.Net工作流讲座" href="Article.aspx?ArticleID=528">
+                <img src="image/Advertising.gif" width="731" height="115" alt="UCML.Net工作流讲座" /></a></div>
+        <div class="adv_right">
+            <ul style="margin: 0px; padding: 0px">
+                <li><a title="服务培训" href="Article.aspx?ArticleID=426">
+                    <img src="image/button_service.gif" width="46" height="43" alt="服务培训" class="image_style"><br>
+                    服务培训</a></li>
+                <li><a title="在线演示" href="Article.aspx?ArticleID=430">
+                    <img src="image/button_demo.gif"  width="46" height="43" alt="在线演示" class="image_style"><br>
+                    在线演示</a></li>
+                <li><a title="常见问题" href="Category.aspx?CategoryID=75">
+                    <img src="image/button_question.gif" width="46" height="43" alt="常见问题" class="image_style"><br>
+                    常见问题</a></li>
+            </ul>
+        </div>
+    </div>
+    <!--底部广告栏-->
+	
+
+	</div>
+	<!--========底部开始=====-->
+	<div class="foot">
+            <div class="foot_top">
+                <div class="foot_list_left">
+                    <div class="foot_title">
+                        联系方式</div>
+                    <div class="foot_content">
+                        <ul style="margin: 0px; padding: 0px">
+                            <li><a>联系地址：北京市海淀上地农大南路33号杜朗大厦2层</a></li>
+                            <li><a>邮 编：100091</a></li>
+                            <li><a>网 址：www.ucml.com.cn</a></li>
+                            <li><a>销售专线：400-638-6006</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="foot_list_left">
+                    <div class="foot_title">
+                        动态</div>
+                    <div class="foot_content">
+                        <ul style="margin: 0px; padding: 0px">
+                            <li><a title="UCML.NET开发平台" href="Article.aspx?ArticleID=395">二代开发平台惊爆面世</a></li>
+                            <li><a title="业务度量" href="Article.aspx?ArticleID=405">业务度量服务器开发完毕</a></li>
+                            <li><a title="UCML协同办公系统" href="Article.aspx?ArticleID=331">UCML平台+OA开拓OA新时代</a></li>
+                            <li><a title="分工协作 分享成功" href="Article.aspx?ArticleID=351">共赢中国－UCML OA渠道招募</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="foot_list_right">
+                    <div class="foot_title">
+                        版权所有</div>
+                    <div class="foot_content">
+                        <ul style="margin: 0px; padding: 0px">
+                            <li><a>金富瑞（北京）科技有限公司</a></li>
+                            <li><a>京ICP备:05062050号</a></li>
+                            <li><a>京公网安备110108006751号</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="foot_bottom">
+                金富瑞（北京）科技有限公司&nbsp;&nbsp; 版权所有&nbsp;&nbsp; 京ICP备:05062050号&nbsp;&nbsp;京公网安备110108006751号&nbsp;&nbsp;
+                网站统计&nbsp;&nbsp;&nbsp;&nbsp;<script type="text/javascript" src="http://js.tongji.linezing.com/472269/tongji.js"></script><noscript></noscript></div>
+        </div>
+    </div>
+    
+<div>
+
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBQLrp+DHCgLE5ML0AgKz0pmfAgL+0OzjDQKC28uTDfMMczjqjvxZ5Jei60GSB7Kpelpd" />
+</div></form>
+
+		<!--========低部结束=====-->
+	</div>
+<h1></h1>
+<h2>你好</h2>
+
+</body>
+
+
+<script type="text/javascript">
+    var minlist = $(".down");
+    $(".head_top").mouseover(hidelist);
+    $(".top_image").mouseover(hidelist);
+    $(".nav_space").mouseover(hidelist);
+      $("#main_middle").mouseover(hidelist);
+
+    minlist.mouseover(showlist);
+    //minlist.mouseout(ifhidelist);
+    var minlistbox = $(".nav_lev2");
+    minlistbox.hide();
+
+    function showlist() {
+        //debugger;
+        minlistbox.hide();
+        //minlistbox.show();
+        $(this).parent().next().show();
+        //$(this).parent().next().mouseout(hidelist);
+    }
+
+    function hidelist() {
+
+        minlistbox.hide();
+    }
+</script>
+
+
+</html>wsy
+name
