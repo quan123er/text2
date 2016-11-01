@@ -5,7 +5,12 @@
 <meta http-equiv="Content-Type" content="text/html; charset=GBK">
 <title>金富瑞网站</title>
    <link rel="stylesheet" type="text/css" href="css/style.css">
-  <link rel="stylesheet" type="text/css" href="css/public.css">
+  <link rel="stylesheet" t
+
+
+
+
+ype="text/css" href="css/public.css">
 <script type="text/javascript" src="js/jquery-1.4.2.min.js"></script>
     <script language="javascript" type="text/javascript">
 <!--
